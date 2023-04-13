@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1649231944 source:c:\users\cagri\desktop\c Çalýþmalarý\projesonhali\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<io.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+
